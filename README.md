@@ -9,7 +9,7 @@ Using the [Chirpy](https://github.com/cotes2020/jekyll-theme-chirpy) theme for [
 
 ## Attribution
 
-<a href="https://www.flaticon.com/free-icons/buddhism" title="buddha icon">Buddha icon created by Freepik - Flaticon <img src="./assets/buddha.png" style="width:18px"></a>
+<a href="https://www.flaticon.com/free-icons/block" title="block icons">Block iconcreated by Freepik - Flaticon [<img src="./assets/block.png" style="width:15px">]</a>
 
 ## License
 
