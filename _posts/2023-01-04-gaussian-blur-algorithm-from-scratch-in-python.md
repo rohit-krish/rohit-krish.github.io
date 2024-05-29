@@ -206,7 +206,7 @@ def convolution(image: np.ndarray, kernel: list | tuple) -> np.ndarray:
 ```
 {: file="convolution_operation_implementation.py" }
 
-The above code is not very optimized or anyting, it is just for teaching purposes, i prefer using [`cv2.filter2D`](https://docs.opencv.org/4.x/d4/d86/group__imgproc__filter.html#ga27c049795ce870216ddfb366086b5a04), [`scipy.signal.correlate2d`](https://docs.scipy.org/doc/scipy/reference/generated/scipy.signal.correlate2d.html) or [`scipy.signal.convolve2d`](https://docs.scipy.org/doc/scipy/reference/generated/scipy.signal.convolve2d.html)
+The above code is not in anyway optimized or anyting, it is just for teaching purposes, i prefer using [`cv2.filter2D`](https://docs.opencv.org/4.x/d4/d86/group__imgproc__filter.html#ga27c049795ce870216ddfb366086b5a04), [`scipy.signal.correlate2d`](https://docs.scipy.org/doc/scipy/reference/generated/scipy.signal.correlate2d.html) or [`scipy.signal.convolve2d`](https://docs.scipy.org/doc/scipy/reference/generated/scipy.signal.convolve2d.html)
 
 > For the complete code refer to my [GitHub Repo](https://github.com/rohit-krish/CVFS)
 
