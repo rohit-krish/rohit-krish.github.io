@@ -1,0 +1,14 @@
+---
+---
+
+@import 'main
+{%- if jekyll.environment == 'production' -%}
+  .bundle
+{%- endif -%}
+';
+
+/* append your custom style below */
+
+mjx-container {
+  font-size: 30px !important;
+}
