@@ -113,9 +113,11 @@ I’m using the term convolution because, it is a bit fancier and more famous th
 
 **The procedure is to perform convolution operation on an image with the gaussian kernel matrix, which results in a blurred image of the corresponding given image.**
 
-_Ta daa... rool the drums 🥁, so now we can get into the code._
+_Ta daa... roll the drums 🥁, so now we can get into the code._
 
 ---
+
+{% include adsense/in-article.html %}
 
 ## Code
 
